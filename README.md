@@ -10,6 +10,8 @@
 
 This was one of my first Three.js projects, I did it a long time ago, so I've decided to remake it, this time using Next.JS and react-three-fiber. It is not quite finished yet and there is a lot of room for improvement, but I hope that it can be a nice source for anyone starting in three.js with React!
 
+You can check the live version here: [Deploy](https://tronthreejs.vercel.app/)
+
 ---
 
 ## Todo
